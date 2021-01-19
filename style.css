@@ -9,10 +9,11 @@
 
 /* Queries */ 
 
-@media only screen and (max-width: 600px) .section-inner {
+@media only screen and (max-width: 600px) { 
     
-    width:80% !important;
-
+    .section-inner {
+        width:80% !important;
+    }
 }
     
 h2 {
