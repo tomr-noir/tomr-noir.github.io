@@ -1259,6 +1259,7 @@ body {
 a {
     color         : hsl(0, 0%, 0%);
     border-bottom : hsl(0, 0%, 0%);
+    font-weight: bold;
     transition    : all 0.3s ease-in-out;
 }
 
