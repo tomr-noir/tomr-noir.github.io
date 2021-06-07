@@ -1257,8 +1257,8 @@ body {
 /* links
  */
 a {
-    color         : var(--color-2);
-    border-bottom : 1px solid var(--color-2);
+    color         : hsl(0, 0%, 0%);
+    border-bottom : hsl(0, 0%, 0%);
     transition    : all 0.3s ease-in-out;
 }
 
