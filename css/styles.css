@@ -3821,7 +3821,7 @@ img.u-pull-left {
 /* email link
  */
 .contact-email {
-    --text-email-size : 6.8rem;
+    --text-email-size : 5.5rem;
     --multiplier      : 1;
     display           : inline-block;
     font-family       : var(--font-2);
