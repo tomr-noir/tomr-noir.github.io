@@ -92,7 +92,7 @@
      * color-3(#FFE4AF)
      */
     --color-1                      : hsla(76, 6%, 35%, 1);
-    --color-2                      : hsla(344, 44%, 25%, 1);
+    --color-2                      : hsl(0, 0%, 0%);
     --color-3                      : hsla(40, 100%, 75%, 1);
 
     /* theme color variations
